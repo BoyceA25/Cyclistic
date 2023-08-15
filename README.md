@@ -35,12 +35,12 @@ The next step of my data analytics investigation is to analyze the data so we ar
 
 Now that the data has been analyzed we can start making some visualizations to express the conclusions we have drawn in our analysis.
 
-![alt text](https://github.com/BoyceA25/Cyclistic/blob/main/AvgRideLength.png?raw=true) 
-![alt text](https://github.com/BoyceA25/Cyclistic/blob/main/NumBikesPerType.png?raw=true) 
-![alt text](https://github.com/BoyceA25/Cyclistic/blob/main/NumRidesbyMemType.png?raw=true) 
-![alt text](https://github.com/BoyceA25/Cyclistic/blob/main/PercentMemberType.png?raw=true) 
-![alt text](https://github.com/BoyceA25/Cyclistic/blob/main/RidesPerWeekDay.png?raw=true) 
-![alt text](https://github.com/BoyceA25/Cyclistic/blob/main/RidesTimeDay.png?raw=true) 
+![Average Ride Length](https://github.com/BoyceA25/Cyclistic/blob/main/AvgRideLength.png?raw=true) 
+![Number Bikes](https://github.com/BoyceA25/Cyclistic/blob/main/NumBikesPerType.png?raw=true) 
+![Number Rides](https://github.com/BoyceA25/Cyclistic/blob/main/NumRidesbyMemType.png?raw=true) 
+![Percent Member](https://github.com/BoyceA25/Cyclistic/blob/main/PercentMemberType.png?raw=true) 
+![Rides by Week](https://github.com/BoyceA25/Cyclistic/blob/main/RidesPerWeekDay.png?raw=true) 
+![Rides Time of Day](https://github.com/BoyceA25/Cyclistic/blob/main/RidesTimeDay.png?raw=true) 
 
 
 # Act
