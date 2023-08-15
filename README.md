@@ -35,6 +35,8 @@ The next step of my data analytics investigation is to analyze the data so we ar
 
 Now that the data has been analyzed we can start making some visualizations to express the conclusions we have drawn in our analysis.
 
+![alt text](https://github.com/BoyceA25/Cyclistic/blob/main/AvgRideLength.png?raw=true) 
+
 ![NumRidesbyMemType.png](attachment:95f035a3-7f8c-4693-9192-602252fc9175.png)
 ![RidesPerWeekDay.png](attachment:ecedc306-1123-474e-8eba-e67460eb4a25.png)![AvgRideLength.png](attachment:3a3a811a-c26c-460c-8c4e-1c0ea0344070.png)![NumBikesPerType.png](attachment:d342df7b-100b-4af8-822e-1621238093a7.png)![PercentMemberType.png](attachment:286a0f10-d8db-4aeb-b670-454502d175d9.png)![RidesTimeDay.png](attachment:4aa63fdf-4f68-4163-87dc-9617f9cabc68.png)
 
