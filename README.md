@@ -19,7 +19,7 @@ My primary objective as a data analyst is to show how Cyclistic can optimize the
 
 # Prepare
 
-The RStudio packages that I am going to be utilizing are tidyverse, lubridate, janitor, hms, and scales. The Tidyverse, lubridate, and ggplot2 packages were covered in the Google Data Analytics course, but I wanted to explore a few new packages, so I made sure to take advantage of janitor for cleaning, hms for formatting dates, and scales for setting the scale to look better on the RStudio plots.
+The data that I am using for this capstone was collected by Motivate International Inc an available under the following licesnse: https://ride.divvybikes.com/data-license-agreement. The RStudio packages that I am going to be utilizing are tidyverse, lubridate, janitor, hms, and scales. The Tidyverse, lubridate, and ggplot2 packages were covered in the Google Data Analytics course, but I wanted to explore a few new packages, so I made sure to take advantage of janitor for cleaning, hms for formatting dates, and scales for setting the scale to look better on the RStudio plots.
 
 # Process
 
