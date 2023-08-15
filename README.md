@@ -20,3 +20,19 @@ My primary objective as a data analyst is to show how Cyclistic can optimize the
 # Prepare
 
 The RStudio packages that I am going to be utilizing are tidyverse, lubridate, janitor, hms, and scales. The Tidyverse, lubridate, and ggplot2 packages were covered in the Google Data Analytics course, but I wanted to explore a few new packages, so I made sure to take advantage of janitor for cleaning, hms for formatting dates, and scales for setting the scale to look better on the RStudio plots.
+
+#install packages
+install.packages("tidyverse")
+install.packages("lubridate")
+install.packages("ggplot2")
+install.packages("janitor")
+install.packages("hms")
+install.packages("scales")
+
+#load libraries
+library("tidyverse")
+library("lubridate")
+library("ggplot2")
+library("janitor")
+library("hms")
+library("scales")
